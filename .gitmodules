@@ -7,3 +7,4 @@
 [submodule "Codebase/weathered-agent"]
 	path = Codebase/weathered-agent
 	url = git@github.com:weathered-hackathon/weathered-agent.git
+	branch = synthetic
