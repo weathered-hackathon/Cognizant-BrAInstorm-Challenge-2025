@@ -4,3 +4,6 @@
 [submodule "Codebase/weathered-cloud-functions"]
 	path = Codebase/weathered-cloud-functions
 	url = git@github.com:weathered-hackathon/weathered-cloud-functions.git
+[submodule "Codebase/weathered-agent"]
+	path = Codebase/weathered-agent
+	url = git@github.com:weathered-hackathon/weathered-agent.git
